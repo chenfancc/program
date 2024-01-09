@@ -7,3 +7,5 @@
 
 ## Outline
 ## ==PART 1== Python
+
+[[Template/Template\|Template]]
